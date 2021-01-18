@@ -1,0 +1,8 @@
+prime number ;
+fibonocii  ; 
+reverse the string  ;
+reverse the number ; 
+triangle shape  all stars : output should be star ; 
+rectangle also ; 
+
+Nikhil ->    print nikhil in rectangle
